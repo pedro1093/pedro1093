@@ -1,7 +1,7 @@
 Bem-vindo ao perfil do Pedro Paulo 😁
  <div>
    <a href="https://github.com/pedro1093">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusRibeiroBraz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro1093&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRibeiroBraz&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
